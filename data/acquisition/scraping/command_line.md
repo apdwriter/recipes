@@ -1,0 +1,1 @@
+1. https://www.baeldung.com/linux/curl-download-urls-listed-in-file
